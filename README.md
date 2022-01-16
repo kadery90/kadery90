@@ -10,3 +10,4 @@
    [![Instagram Badge](https://img.shields.io/badge/-kder_yldz-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kder_yldz/) 
      
  
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadery90&label=Profile%20views&color=0e75b6&style=flat" alt="kadery90" /> </p>
