@@ -6,5 +6,6 @@
 
    [![Linkedin Badge](https://img.shields.io/badge/kaderyildiz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaderyildiz/)
 
-   [![Github Badge](https://img.shields.io/badge/-kadery90-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/kadery90) 
+   [![Medium Badge](https://img.shields.io/badge/-kaderyildiz-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://kaderyildiz.medium.com/)
+  
  
