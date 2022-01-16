@@ -6,6 +6,7 @@
 
    [![Linkedin Badge](https://img.shields.io/badge/kaderyildiz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaderyildiz/)
 
-   [![Medium Badge](https://img.shields.io/badge/-kaderyildiz-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://kaderyildiz.medium.com/)
+  [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][https://www.linkedin.com/in/kaderyildiz/]
+
      
  
