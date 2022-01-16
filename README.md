@@ -14,4 +14,4 @@
      
    [instagram]: https://www.instagram.com/kder_yldz/
    [linkedin]: https://www.linkedin.com/in/kaderyildiz/
-   [medium]: https://kaderyildiz.medium.com/
+  
